@@ -2,3 +2,4 @@ streamlit
 pymupdf
 python-docx
 openpyxl
+camelot-py[cv]>=0.10.1
